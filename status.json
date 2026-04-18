@@ -1,12 +1,12 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "peace": false,
   "conflicts": {
     "major_wars": 8,
-    "minor_wars": 11,
-    "conflicts": 17,
+    "minor_wars": 12,
+    "conflicts": 16,
     "skirmishes": 11
   },
   "total": 47,
-  "day_counter": 29447
+  "day_counter": 29448
 }
