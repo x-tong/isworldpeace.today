@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "peace": false,
   "conflicts": {
     "major_wars": 8,
@@ -8,5 +8,5 @@
     "skirmishes": 12
   },
   "total": 48,
-  "day_counter": 29634
+  "day_counter": 29635
 }
